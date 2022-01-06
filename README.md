@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ironfist2004.
+- 👀 I’m interested in machine learning, neural networks, and computer vision.
+- 🌱 I’m currently learning AVAX and the details of Tensorflow in Python.
+- 💞️ I’m looking to collaborate on computer vision projects that identify real world information from images.
+- 📫 You can reach me at aryan082004@gmail.com
