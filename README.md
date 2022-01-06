@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Ironfist2004.
-- 👀 I’m interested in machine learning, neural networks, and computer vision.
-- 🌱 I’m currently learning AVAX and Tensorflow in Python.
-- 💞️ I’m looking to collaborate on computer vision projects that identify real world information from images.
-- 📫 You can reach me at aryan082004@gmail.com
+As autonomous cars become more prevalent, it is essential for these robots to understand what is happening around them.
+To model the sensory input to the computers, ultrasonic sensors can be placed on an Arduino car.
+The code controls the ultrasonic sensors and motors of the Ardunio car, telling it what to do if facing an obstruction.
